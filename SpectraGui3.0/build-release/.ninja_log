@@ -1,0 +1,23 @@
+# ninja log v5
+1	683	1735517801650317672	SpectraGUI_autogen/timestamp	7329866aed3fe0f3
+1	683	1735517801650317672	SpectraGUI_autogen/mocs_compilation.cpp	7329866aed3fe0f3
+1	683	1735517801650317672	/home/pi/SpectraGui3.0/build-release/SpectraGUI_autogen/timestamp	7329866aed3fe0f3
+1	683	1735517801650317672	/home/pi/SpectraGui3.0/build-release/SpectraGUI_autogen/mocs_compilation.cpp	7329866aed3fe0f3
+683	700	1735517801678318152	SpectraGUI_autogen/L7C3C7FETB/qrc_rc.cpp	54b87622af0f714
+683	700	1735517801678318152	/home/pi/SpectraGui3.0/build-release/SpectraGUI_autogen/L7C3C7FETB/qrc_rc.cpp	54b87622af0f714
+701	1046	1735517802018323988	CMakeFiles/SpectraGUI.dir/sources/as7265x.cpp.o	5644baafe9cbfc74
+703	3813	1735517804786371522	CMakeFiles/SpectraGUI.dir/sources/chart.cpp.o	91f38ad72d1bc1bf
+1046	3946	1735517804922373858	CMakeFiles/SpectraGUI.dir/sources/predictions.cpp.o	f335a4bc33c6e4c5
+3947	4124	1735517805098376881	CMakeFiles/SpectraGUI.dir/SpectraGUI_autogen/L7C3C7FETB/qrc_rc.cpp.o	c4eacbd5ecc073d9
+702	5358	1735517806330398049	CMakeFiles/SpectraGUI.dir/sources/chartview.cpp.o	1837059e9f97c035
+3813	7042	1735517808014426991	CMakeFiles/SpectraGUI.dir/sources/savitzky_golay_filter.cpp.o	d25197cae43a5eeb
+701	8057	1735517809030444459	CMakeFiles/SpectraGUI.dir/SpectraGUI_autogen/mocs_compilation.cpp.o	5357adf6539cea34
+701	8774	1735517809746456771	CMakeFiles/SpectraGUI.dir/sources/SpectraGui.cpp.o	af677c4abeb0ce2e
+701	9807	1735517810778474521	CMakeFiles/SpectraGUI.dir/sources/mainwindow.cpp.o	7c4be0f183f02de0
+9807	10234	1735517811210481952	SpectraGUI	f31971095141182
+16	81	1735564771783999791	SpectraGUI_autogen/timestamp	7329866aed3fe0f3
+16	81	1735564771783999791	SpectraGUI_autogen/mocs_compilation.cpp	7329866aed3fe0f3
+16	81	1735564771783999791	/home/pi/SpectraGui3.0/build-release/SpectraGUI_autogen/timestamp	7329866aed3fe0f3
+16	81	1735564771783999791	/home/pi/SpectraGui3.0/build-release/SpectraGUI_autogen/mocs_compilation.cpp	7329866aed3fe0f3
+84	6141	1735564777839999787	CMakeFiles/SpectraGUI.dir/sources/mainwindow.cpp.o	7c4be0f183f02de0
+6141	6609	1735564778311999787	SpectraGUI	f31971095141182

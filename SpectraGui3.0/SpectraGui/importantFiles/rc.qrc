@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/cal.png</file>
+        <file>icons/clean.png</file>
+        <file>icons/conf.png</file>
+        <file>icons/cont.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/info.png</file>
+        <file>icons/line.png</file>
+        <file>icons/load.png</file>
+        <file>icons/raw.png</file>
+        <file>icons/save.png</file>
+        <file>icons/scatter.png</file>
+        <file>icons/single.png</file>
+        <file>icons/start.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/warn.png</file>
+        <file>icons/zoomin.png</file>
+        <file>icons/zoomout.png</file>
+        <file>icons/sicon.png</file>
+    </qresource>
+</RCC>

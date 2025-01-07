@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SpectraGUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SpectraGUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpectraGUI-Release-1ea8b1f1e7cb5322651b.json",
+					"name" : "SpectraGUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SpectraGUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpectraGUI_autogen-Release-fdaa6baa3b68add8cfad.json",
+					"name" : "SpectraGUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SpectraGUI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpectraGUI_autogen_timestamp_deps-Release-0dea934c9a11c26456d3.json",
+					"name" : "SpectraGUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pi/SpectraGui3.0/build-release",
+		"source" : "/home/pi/SpectraGui3.0/SpectraGui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

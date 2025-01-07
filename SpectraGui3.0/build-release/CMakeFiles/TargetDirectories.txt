@@ -1,0 +1,5 @@
+/home/pi/SpectraGui3.0/build-release/CMakeFiles/SpectraGUI.dir
+/home/pi/SpectraGui3.0/build-release/CMakeFiles/edit_cache.dir
+/home/pi/SpectraGui3.0/build-release/CMakeFiles/rebuild_cache.dir
+/home/pi/SpectraGui3.0/build-release/CMakeFiles/SpectraGUI_autogen_timestamp_deps.dir
+/home/pi/SpectraGui3.0/build-release/CMakeFiles/SpectraGUI_autogen.dir
