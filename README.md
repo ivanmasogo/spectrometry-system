@@ -1,4 +1,4 @@
-This repository contains the code and applications developed as part of my **Final Degree Project (PFG)** in **Telecommunications Systems Engineering**.
+This repository contains the code and applications developed as part of my **Final Degree Project (FDP)** in **Telecommunications Systems Engineering**.
 
 ## Project Description
 
